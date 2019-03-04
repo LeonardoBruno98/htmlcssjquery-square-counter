@@ -7,12 +7,10 @@ function myIn(){
   cubo1.click(function(){
     conto-=1;
     cubo2.text(conto);
-    colorSwapper(conto,cubo2);
   });
   cubo3.click(function(){
     conto+=1;
     cubo2.text(conto);
-    colorSwapper(conto,cubo2);
   });
 }
 
