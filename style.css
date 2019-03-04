@@ -1,0 +1,36 @@
+#cubo1{
+  width: 70px;
+  height:70px;
+  background-color: red;
+  padding: 20px;
+  margin: 5px;
+  text-align: center;
+  line-height: 70px;
+
+}
+
+#cubo2{
+  width: 70px;
+  height:70px;
+  background-color: blue;
+  margin: 5px;
+  padding: 20px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 20px;
+  color: yellow;
+}
+
+#cubo3{
+  width: 70px;
+  height:70px;
+  background-color: green;
+  padding: 20px;
+  margin: 5px;
+  text-align: center;
+  line-height: 70px;
+}
+
+i{
+  font-size: 70px;
+}
